@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    font-weight: normal;
+}
+
+
+header {
+    display: flex;
+    flex: inline-block;
+    font-size: 40px;
+    background-color: rgb(15, 34, 42);
+    color: rgb(233, 231, 231);
+}
+
+main {}
+
+section {}
+
+footer {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(15, 34, 42);
+    color: rgb(233, 231, 231);
+}
+
+.social {}
+
+.contato {
+
+}
+
+.myPic {
+    border-radius: 100%;
+    width: 25%;
+}
